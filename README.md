@@ -70,5 +70,4 @@ Many things:
 
 - Store more transaction details
 - Permissions
-- Multi-tenancy
 - ...
