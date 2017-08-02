@@ -1,0 +1,8 @@
+{:port     8082
+ :database {:host     "postgres"
+            :user     "txservice"
+            :password "txservice"
+            :name     "txservice"
+            :port     5432}
+ :amqp     {:url           "amqp://guest:guest@rmq:5672"
+            :tx-queue-name "transactions.tx-service"}}
